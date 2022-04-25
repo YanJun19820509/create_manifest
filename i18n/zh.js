@@ -1,0 +1,1 @@
+"use strict";module.exports={description:"项目构建完成后创建热更新所需的manifest文件。"};
